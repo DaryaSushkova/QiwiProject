@@ -1,0 +1,8 @@
+main.py
+setup.py
+currency_rates.egg-info/PKG-INFO
+currency_rates.egg-info/SOURCES.txt
+currency_rates.egg-info/dependency_links.txt
+currency_rates.egg-info/entry_points.txt
+currency_rates.egg-info/requires.txt
+currency_rates.egg-info/top_level.txt

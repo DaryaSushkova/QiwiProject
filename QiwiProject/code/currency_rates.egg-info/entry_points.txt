@@ -1,0 +1,2 @@
+[console_scripts]
+currency_rates = main:currency_rates
